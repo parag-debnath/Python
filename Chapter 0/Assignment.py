@@ -1,0 +1,1 @@
+print(("Parag Debnath" + "\n") * 10)
